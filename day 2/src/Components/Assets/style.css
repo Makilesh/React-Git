@@ -1,0 +1,14 @@
+h1{
+    color:rgb(43, 226, 58);
+    :**background-color: rgb(63, 231, 175);
+}
+body{
+    text-align:center;
+    background-color:aqua;
+}
+table{
+    
+    justify-content: center;
+    margin-top: 150px;
+    
+}
